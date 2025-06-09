@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "/abhinav-website.html"
+      "destination": "/Abhinav-website.html"
     }
   ]
 }
